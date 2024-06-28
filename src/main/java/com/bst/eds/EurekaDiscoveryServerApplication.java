@@ -12,5 +12,4 @@ public class EurekaDiscoveryServerApplication {
 		SpringApplication.run(EurekaDiscoveryServerApplication.class, args);
 		System.out.println("EurekaDiscoveryServer is running...");
 	}
-
 }
