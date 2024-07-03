@@ -7,7 +7,6 @@ services:
     ports:
       - "8761:8761"
 
-
 networks:
   mms-network:
     driver: bridge
